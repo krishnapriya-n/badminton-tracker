@@ -35,6 +35,12 @@ body {
   margin-bottom: 2rem;
 }
 
+.subheading {
+  font-family: 'Barrio';
+  font-size: 0.5rem;
+  margin-bottom: 1rem;
+}
+
 /* Card Container */
 .card-container {
   display: flex;
